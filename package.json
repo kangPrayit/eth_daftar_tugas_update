@@ -1,0 +1,16 @@
+{
+    "name": "eth-daftar-tugas-prayitno",
+    "version": "1.0.0",
+    "description": "Aplikasi daftar tugas menggunakan Ethereum Blockchan",
+    "main": "index.js",
+    "scripts": {
+        "dev": "lite-server",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Prayitno",
+    "license": "Apache-2.0",
+    "dependencies": {
+        "lite-server": "^2.6.1",
+        "truffle-contract": "^4.0.31"
+    }
+}
